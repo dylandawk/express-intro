@@ -1,0 +1,14 @@
+{
+  "name": "express-intro",
+  "version": "1.0.0",
+  "description": "Learning how to use express",
+  "main": "os-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Dawkins",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.4"
+  }
+}
