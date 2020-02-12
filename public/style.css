@@ -1,0 +1,32 @@
+ h1 {
+    padding: 0%;
+    text-align: center;
+    background: #343333;
+    color: #e9ca3e;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 60px;
+}
+
+#div1 h2{
+
+    text-align: center;
+    background: #e9ca3e;
+    color: #343333;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 30px;
+}
+
+#div1 p{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+#div0 a{
+
+    padding-left: 40%;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+
+}
